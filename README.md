@@ -1,3 +1,3 @@
 # Google Software Product Sprint
 
-his repo contains Roberto's portfolio and SPS projects
+This repo contains Roberto's portfolio and Google SPS projects.
